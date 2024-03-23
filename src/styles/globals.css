@@ -8,6 +8,10 @@
   --black: #000000
 }
 
+body {
+  font-family: 'Nunito Sans';
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
